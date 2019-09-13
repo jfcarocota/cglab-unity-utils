@@ -1,0 +1,19 @@
+{
+    "name": "com.cglab.cglab-unity-utils",
+    "version": "1.0.1",
+    "displayName": "CG Lab Utils",
+    "description": "This is an utility for commons behaviours.",
+    "unity": "2019.2",
+    "keywords": [
+        "cglab",
+        "rpg",
+        "topdopwn",
+        "utils"
+    ],
+    "author": {
+        "name": "Jesús Caro",
+        "email": "unemail@gmail.com",
+        "url": "https://connect.unity.com/u/jesus-caro"
+    },
+    "license": "MIT"
+}
