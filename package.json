@@ -1,6 +1,6 @@
 {
     "name": "com.cglab.cglab-unity-utils",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "displayName": "CG Lab Utils",
     "description": "This is an utility for commons behaviours.",
     "unity": "2019.2",
