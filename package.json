@@ -15,5 +15,9 @@
         "email": "unemail@gmail.com",
         "url": "https://connect.unity.com/u/jesus-caro"
     },
-    "license": "MIT"
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jfcarocota/cglab-unity-utils.git"
+    }
 }
