@@ -2,7 +2,7 @@
 
 ## use in unity package
 
-```node
+```json
 {
   "dependencies": {
     "com.cglab.cglab-unity-utils": "https://github.com/jfcarocota/cglab-unity-utils.git"
