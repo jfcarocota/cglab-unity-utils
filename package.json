@@ -1,5 +1,4 @@
 {
-    "name": "com.cglab.cglab-unity-utils",
     "version": "1.0.2",
     "displayName": "CG Lab Utils",
     "description": "This is an utility for commons behaviours.",
@@ -18,6 +17,6 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/jfcarocota/cglab-unity-utils.git"
+        "url": "https://github.com/jfcarocota/cglab-unity-utils.git#master"
     }
 }
