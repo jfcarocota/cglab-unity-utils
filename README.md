@@ -9,15 +9,15 @@
 }
 ```
 
-# InputSystem
+## InputSystem
 
-## Cabecera de namespace
+### Cabecera de namespace
 
 ```csharp
 using CGLabbUtils.InputSystem;
 ```
 
-## Axis
+### Axis
 <p style="text-aling="center";">
  Esta función regresa los axis horizontal y vertical en un Vector 2 puro, se usa de la siguiente forma:
 </p>
